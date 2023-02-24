@@ -243,16 +243,13 @@ ul {
 }
 
 .tags {
-  display: flex;
-  flex-direction: row;
+
   margin-bottom: 20px;
   padding-left: 0.1px;
 }
 
 .tag-item {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
+  float: right;
   background: #ebebff;
   border-radius: 8px;
   color: #6070ff;
@@ -406,4 +403,20 @@ ul {
   color: #fff;
   border-style: none;
   border-radius: 4px;
+}
+
+.contact-form {
+
+  background-color: #6070FF;
+}
+
+.contact-tittle {
+color: #fff;
+text-align: center;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+padding-top: 103px;
 }
