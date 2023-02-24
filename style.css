@@ -420,3 +420,14 @@ font-size: 40px;
 line-height: 52px;
 padding-top: 103px;
 }
+
+.contact-text{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  color: #EBEBFF;
+  padding-top: 12px;
+}
